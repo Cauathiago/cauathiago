@@ -1,5 +1,5 @@
 <h1> 
-  Oi, Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/cauathiago/">Cauã Thiago😃️</a>
+  Oi, Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/cauathiago/" target="_blank">Cauã Thiago😃️</a>
 </h1>
 
 <div align="center">
