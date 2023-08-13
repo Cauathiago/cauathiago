@@ -1,6 +1,4 @@
-<h1> 
-  Oi, Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/cauathiago/" target="_blank">Cauã Thiago😃️</a>
-</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F8F8FF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+Nome+é+Cauã+Thiago...;Eu+Tenho+18+Anos!;Eu+Sou+de+Recife,+PE;Atualmente+estou+estudando+Aplicações+para+Web;Bem+vindo!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://github.com/cauathiago">
@@ -11,7 +9,7 @@
 <br>
 
 <div  align="center"> 
-  <div style="display: inline_block"><br>
+  <div style="display: inline_block" color="00CED1"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
     <h1 align="center">Minhas Habilidades</h1>
      <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
