@@ -1,10 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Me+Chamo+Cauã+Thiago...;Eu+Tenho+18+Anos!;Eu+Sou+de+Recife,+PE!;Atualmente+estou+estudando+Aplicações+para+Web.;Bem+vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=38&center=true&vCenter=true&width=1000&lines=Olá,+Me+Chamo+Cauã+Thiago...;Eu+Tenho+18+Anos!;Eu+Sou+de+Recife,+PE!;Atualmente+estou+estudando+Aplicações+para+Web.;Bem+vindo!+:%29)](https://git.io/typing-svg)
 
 
 <div align="center">
   <a href="https://github.com/cauathiago">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=cauathiago&count_private=true&include_all_commits=true&show_icons=true&theme=radical&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauathiago&theme=radical&hide_border=false&&layout=compact"/>
+    <img height="148em" src="https://github-readme-stats.vercel.app/api?username=cauathiago&count_private=true&include_all_commits=true&show_icons=true&theme=radical&hide_border=false&show_owner=true"/>
+    <img height="148em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauathiago&theme=radical&hide_border=false&&layout=compact"/>
   </a>
 </div>
 <br>
