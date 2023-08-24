@@ -49,4 +49,3 @@
   
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
-<h6 align="right">Made with ❤️ by Cauã Thiago!</h6>
