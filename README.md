@@ -30,6 +30,8 @@
 #### Workstation Tools:
 
 ![windows](https://img.shields.io/badge/windows-4285F4?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)&nbsp;
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 
 
