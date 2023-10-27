@@ -39,9 +39,7 @@
 
 ### Portifólio:
 
-https://cauathiago.netlify.app
-
-
+[![Portfólio](https://img.shields.io/badge/Portfólio-%23000000.svg?style=for-the-badge&logoColor=#FF7139)](https://cauathiago.netlify.app)
 &nbsp;
 &nbsp;
 
